@@ -30,10 +30,10 @@ def monopoly_with_third_tier
        rent_3: 14,
        },
     :names => {
-      name: ""
-      name_1 ""
-      name_2 ""
-      name_3 ""
+      name: "",
+      name_1: "",
+      name_2: "",
+      name_3: "",
       }
       
     }
