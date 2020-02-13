@@ -27,14 +27,14 @@ def monopoly_with_third_tier
        rent: 10,
        rent_1: 12,
        rent_2: 13,
-       rent_3: 14,
+       one_piece_owned: 25,
        },
     :names => {
       name: "",
       name_1: "",
       name_2: "",
       name_3: "",
-      }
+      },
       
     }
   }
