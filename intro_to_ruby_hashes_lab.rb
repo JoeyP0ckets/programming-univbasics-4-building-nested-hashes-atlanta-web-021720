@@ -13,10 +13,10 @@ def base_hash {
       #expect(base_hash.has_key?(:railroads)).to(be_truthy, "Make sure you have a key called :railroads in the `monopoly` Hash and that :railroads points to a Hash")
  
 
-    it "the one key, :railroads, points to an empty Hash" do
-      expect(base_hash[:railroads]).to eq({})
-    end
-  end
+    #it "the one key, :railroads, points to an empty Hash" do
+     # expect(base_hash[:railroads]).to eq({})
+    
+  
   # Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
 	
