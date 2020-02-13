@@ -23,10 +23,13 @@ def monopoly_with_third_tier
    monopoly = {
     :railroads => {
      pieces: 4,
-     :rent_in_dollars => [
-       {rent: 10}, {rent: 10}, {rent: 10}, {rent: 10}
+     :rent_in_dollars => {
+       rent: 10,
+       rent_1: 12,
+       rent_2: 13,
+       rent_3: 14,
        
-       ] 
+     }
     }
   }
   monopoly
