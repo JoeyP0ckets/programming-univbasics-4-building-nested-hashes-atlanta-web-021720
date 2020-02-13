@@ -1,9 +1,9 @@
-def base_hash {
+def base_hash 
   monopoly = {
     :railroads => {}
   }
-  base_hash
- end 
+monopoly
+  end 
   #describe "the base_hash method returns a Hash that" do
     #it "has one key" do
       #expect(base_hash.keys.count).to(eq(1), "Make sure you have at least one key defined in the monopoly hash")
