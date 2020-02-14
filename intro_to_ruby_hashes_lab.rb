@@ -57,7 +57,7 @@ def monopoly_with_fourth_tier
   print("HELLO JOEY")
   print("HELLO JOEY")  
   print("HELLO JOEY")
-  print(monopoly[:railroads][:names]["mortgage_value"])
+  print(monopoly[:railroads][:names])
   print("HELLO JOEY")
   monopoly
  end
