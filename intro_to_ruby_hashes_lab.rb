@@ -54,12 +54,8 @@ def monopoly_with_fourth_tier
       }
   }
   
-  printf("HELLO JOEY")
-  printf("HELLO JOEY")  
-  printf("HELLO JOEY")
-  printf(monopoly[:railroads])
-  printf("FINISHED PRINTING")
-  #monopoly
+ 
+  monopoly
  end
  
  
