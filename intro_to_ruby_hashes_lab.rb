@@ -54,11 +54,11 @@ def monopoly_with_fourth_tier
       }
   }
   
-  puts("HELLO JOEY")
-  puts("HELLO JOEY")  
-  puts("HELLO JOEY")puts("HELLO JOEY")
-  puts(monopoly[:railroads][:names]["mortgage_value"])
-  puts("HELLO JOEY")
+  print("HELLO JOEY")
+  print("HELLO JOEY")  
+  print("HELLO JOEY")puts("HELLO JOEY")
+  print(monopoly[:railroads][:names]["mortgage_value"])
+  print("HELLO JOEY")
   monopoly
  end
  
