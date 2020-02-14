@@ -57,7 +57,7 @@ def monopoly_with_fourth_tier
   printf("HELLO JOEY")
   printf("HELLO JOEY")  
   printf("HELLO JOEY")
-  printf([:railroads][:names])
+  printf(monopoly[railroads])
   printf("HELLO JOEY")
   monopoly
  end
