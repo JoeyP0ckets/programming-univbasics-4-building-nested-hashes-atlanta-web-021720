@@ -46,7 +46,7 @@ def monopoly_with_fourth_tier
        four_pieces_owned: 200
       },
     :names => {
-      :reading_railroad => {mortgage: "$100"},
+      :reading_railroad => {mortgage_value: "$100"},
       :pennsylvania_railroad => {mortgage_value: "2"},
       :b_and_o_railroad => {mortgage_value: "3"},
       :shortline_railroad => {mortgage_value: "4"}
@@ -54,7 +54,11 @@ def monopoly_with_fourth_tier
       }
   }
   
-  puts(monopoly[:railroads][:names])
+  puts("HELLO JOEY")
+  puts("HELLO JOEY")  
+  puts("HELLO JOEY")puts("HELLO JOEY")
+  puts(monopoly[:railroads][:names]["mortgage_value"])
+  puts("HELLO JOEY")
   monopoly
  end
  
